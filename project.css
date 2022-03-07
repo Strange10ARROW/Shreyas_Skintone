@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+body {
+	background-image: url("face.jpg");
+ background-repeat:no-repeat;
+ background-size:100% ;
+} 
+h1{
+     color:rgb(231, 231, 231);
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     margin-left: 8%;
+    /* text-align:unset; */
+    
+}
+h3{
+    margin-left: 16%;
+    color: yellow;
+    padding-top: 80px;
+    font-family: 'Dancing Script', cursive;
+}
+#one{
+    
+ color: rgba(0, 0, 0, 0.959);
+ font-size: 15px;
+ margin-left: 21% ;
+ 
+}
+
+#two{
+    font-size: 21px;
+    margin-left: 800px;
+    color:whitesmoke;
+    /* width: 30px; */
+}
+  
+#three{
+    font-size: 21px;
+    color:whitesmoke;
+    /* width: 30px; */
+    
+}
+
+#four{
+    font-size: 21px;
+    color:whitesmoke;
+    /* width: 30px; */
+}  
+#two:hover{
+    background-color: rgb(189, 127, 127);
+}    
+#three:hover{
+    background-color: rgb(189, 127, 127);
+}    
+#four:hover{
+    background-color: rgb(189, 127, 127);
+}    
+ 
+ 
