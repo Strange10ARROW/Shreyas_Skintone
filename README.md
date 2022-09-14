@@ -8,7 +8,7 @@ Skin detection is the process of finding skin-colored pixels and regions in an i
 
 To run this project:
 Step 1: Clone the repository.
-git clone https://github.com/ad158h/exploratory-data-analysis.git
+git clone https://github.com/Strange10ARROW/Shreyas_Skintone.git
 
 Step 2: Navigate to directory
 pip install -r requirements.txt
