@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/ZdbnD1s/verzeo.png)
+![Logo](https://i.ibb.co/HDXWgCW/verzeo-removebg-preview.png)
 
 
 # Skintone Detection
